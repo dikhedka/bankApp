@@ -8,7 +8,7 @@ public abstract class BankAccount implements BankSpecification {
 	private String accHolderName;
 	private String accType;
 	private double balance;
-	
+	//private String name;
 	private static int accIdGenerator;
 	private static String bankName;
 	
